@@ -1,3 +1,16 @@
+# system
+.DS_Store
+
+# editor
+.vscode
+
+# project
+.env
+/node_modules
+
+
+
+
 # Logs
 logs
 *.log
